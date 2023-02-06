@@ -1,0 +1,26 @@
+Olá Professor,
+
+Escrevo esse read-me para explicar um pouquinho do meu trabalho.
+Primeiramente gostaria de falar que fiz o que você pediu até a aula 7, que foi até onde consegui reassistir. Esse ano meu trabalho começou bem apertado e não tive muito 
+tempo para rever as aulas.
+Consegui fazer a busca pelo nome, conforme você havia solicitado. Inclusive coloquei busca por parte de nome e pode ser inserido com maiúsculas ou minúsculas.
+Achei que ficou faltando alguns tratamentos de erro que poderia ter aperfeiçoado.
+
+Copiei a pasta em outro local e tentei implementar um front com a busca por nome vindo de um campo do body e comecei a comseguir implementar. Minha intenção é implementar 
+todos os comandos do crude diretamente pelo front, mas como não consegui terminar, subi o código que estava funcionando certinho mesmo, para não correr o risco de atrapalhar.
+No futuro pretendo finalizar.
+
+No mais, agradeço pelas excelentes aulas, você explica muito bem. E agradeço a atenção.
+Seguem abaixo as instruções para a implementação da API e do front.
+
+Att,
+
+Kátia
+
+Para subir a API e o front, siga os passos abaixo:
+1- Faça um git clone do repositório
+2- no terminal navegue até o diretorio api-rest e insira o comando de inicialização npm run dev (a aplicação vai subir na porta 1234)
+3- abra outro terminal, navegue ate o diretório vehicles-front e insira o comando de inicialização que também é npm run dev (a aplicação vai subir na porta 3000)
+4- abra o navegador e acesse a url: http://localhost:3000 para acessar a aplicação (por aqui é possível acessar o campos: ver todos os carros e cadastrar carros)
+5- para acessar os demais comandos do back-end, favor abrir o ThunderClient na url: http://localhost:1234.
+
